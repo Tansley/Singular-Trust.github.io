@@ -1,0 +1,263 @@
+/* Your custom styles */
+.about {
+    color: white;
+    background-image: url("/img/images/redd-angelo-573275-unsplash.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-text {
+    font-size: 25px;
+}
+
+body {
+    background-color: #37474F;
+}
+
+/* 
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    overflow: auto;
+    padding-bottom: 100px;
+}
+ 
+#page {
+    min-height: 100%;
+} */
+
+.btn-floating {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.btn-rounded {
+    border-radius: 30px
+}
+
+.bump {
+    border-top-color: rgb(155, 56, 56);
+    border-top: 100px;
+    padding-top: 100px;
+    margin-top: 100px;
+}
+
+.mid {
+    padding-top: 85px;
+}
+
+.bin {
+    padding-bottom: 55px;
+}
+
+ .carousel-inner img {
+     width: 100%;
+     /* Set width to 100% */
+     margin: auto;
+     min-height: 200px;
+ }
+
+ .ceil {
+     background-image: url("/img/images/architecture-ceiling-contemporary-295047.jpg");
+       /* Set a specific height */
+
+       height: 700px;
+       /* Create the parallax scrolling effect */
+
+       background-attachment: fixed;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+ }
+
+ .train{
+     background-image: url("/img/images/matteo-bernardis-428444-unsplash.jpg");
+     /* Set a specific height */
+
+     height: 700px;
+     /* Create the parallax scrolling effect */
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .ceil-txt {
+     padding-top: 130px;
+ }
+
+ /* Hide the carousel text when the screen is less than 600 pixels wide */
+
+ @media (max-width: 600px) {
+     .carousel-caption {
+         display: none;
+     }
+ }
+
+.fa-bolt {
+    font-size: 20px;
+}
+
+.footer {
+    position: relative;
+    height: 100px;
+    margin-top: -100px;
+    clear: both;
+    background-color: #37474F;
+}
+
+.hdr {
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 4px;
+}
+
+/* html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+} */
+
+.lbx {
+        display: flex;
+        /* The image used */
+        background-image: url("/img/images/joshua-ness-117255-unsplash.jpg");
+        /* Set a specific height */
+        height: 500px;
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: left 10px;
+        background-size: 50%;
+        background-repeat: no-repeat;
+}
+
+.rbx {
+      /* The image used */
+        background-image: url("/img/images/tyler-nix-578781-unsplash.jpg");
+        /* Set a specific height */
+        height: 500px;
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: right;
+        background-size: 50%;
+        background-repeat: no-repeat;
+    }
+
+.so-ico {
+    padding: 20px;
+    border-radius: 50%;
+    /* margin: 20px; */
+}
+
+.ico {
+  padding-top: 5px;
+  padding-bottom: 0px;
+} 
+
+.max {
+    padding-bottom: 50px;
+}
+
+.points{
+    padding: 20px;
+}
+
+.space {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.top-space {
+    padding-top: 50px;
+}
+
+.well {
+    background-color: #37474F;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create three columns of equal width */
+
+.columns {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+}
+
+/* Style the list */
+
+.price {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+/* Add shadows on hover */
+
+.price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2)
+}
+
+/* Pricing header */
+
+.price .header {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+}
+
+/* List items */
+
+.price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Grey list item */
+
+.price .grey {
+    background-color: #eee;
+    font-size: 20px;
+}
+
+/* The "Sign Up" button */
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Change the width of the three columns to 100% 
+(to stack horizontally on small screens) */
+
+@media only screen and (max-width: 600px) {
+    .columns {
+        width: 100%;
+    }
+}
+
+.page {
+    padding-top: 500px;
+    margin-top: 500px;
+}
