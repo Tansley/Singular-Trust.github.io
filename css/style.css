@@ -1,7 +1,7 @@
 /* Your custom styles */
 .about {
     color: white;
-    background-image: url(".img/images/redd-angelo-573275-unsplash.jpg");
+    background-image: url("https://raw.githubusercontent.com/Tansley/Singular-Trust.github.io/master/img/images/redd-angelo-573275-unsplash.jpg");
     height: 700px;
     background-attachment: fixed;
     background-position: center;
@@ -79,7 +79,7 @@ body {
  }
 
  .train{
-     background-image: url("/img/images/matteo-bernardis-428444-unsplash.jpg");
+     background-image: url("https://github.com/Tansley/Singular-Trust.github.io/blob/master/img/images/matteo-bernardis-428444-unsplash.jpg?raw=true");
      /* Set a specific height */
 
      height: 700px;
