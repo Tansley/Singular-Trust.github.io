@@ -66,7 +66,7 @@ body {
  }
 
  .ceil {
-     background-image: url("/img/images/architecture-ceiling-contemporary-295047.jpg");
+     background-image: url("https://raw.githubusercontent.com/Tansley/Singular-Trust.github.io/master/img/images/architecture-ceiling-contemporary-295047.jpg");
        /* Set a specific height */
 
        height: 700px;
