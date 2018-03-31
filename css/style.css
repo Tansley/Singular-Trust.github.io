@@ -1,7 +1,7 @@
 /* Your custom styles */
 .about {
     color: white;
-    background-image: url("..img/images/redd-angelo-573275-unsplash.jpg");
+    background-image: url(".img/images/redd-angelo-573275-unsplash.jpg");
     height: 700px;
     background-attachment: fixed;
     background-position: center;
@@ -66,7 +66,7 @@ body {
  }
 
  .ceil {
-     background-image: url("..img/images/architecture-ceiling-contemporary-295047.jpg");
+     background-image: url(".img/images/architecture-ceiling-contemporary-295047.jpg");
        /* Set a specific height */
 
        height: 700px;
@@ -79,7 +79,7 @@ body {
  }
 
  .train{
-     background-image: url("..img/images/matteo-bernardis-428444-unsplash.jpg");
+     background-image: url(".img/images/matteo-bernardis-428444-unsplash.jpg");
      /* Set a specific height */
 
      height: 700px;
