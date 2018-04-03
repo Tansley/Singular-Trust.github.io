@@ -78,6 +78,10 @@ body {
        background-size: cover;
  }
 
+ .price-space {
+     padding-top: 70px;
+ }
+
  .train{
      background-image: url("/img/images/matteo-bernardis-428444-unsplash.jpg");
      /* Set a specific height */
