@@ -261,6 +261,10 @@ body {
     }
 }
 
+.price-base{
+    padding-bottom: 100px;
+}
+
 .page {
     padding-top: 500px;
     margin-top: 500px;
